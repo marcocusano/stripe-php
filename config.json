@@ -1,0 +1,21 @@
+{
+    "api_keys" : {
+        "test" : {
+            "public_key" : "pk_test_YourPublicTestApiKey",
+            "secret_key" : "sk_test_YourSecretTestApiKey"
+        },
+        "live" : {
+            "public_key" : "pk_live_YourPublicLiveApiKey",
+            "secret_key" : "sk_live_YourSecretLiveApiKey"
+        }
+    },
+
+    "tokens" : [
+        "rk_test_AAoz9hZGmZvB3kQigpcJo5BQ00McIje2bd",
+        "rk_your_token_key1",
+        "rk_your_token_key2",
+        "rk_your_token_keyN"
+    ],
+
+    "live" : false
+}
